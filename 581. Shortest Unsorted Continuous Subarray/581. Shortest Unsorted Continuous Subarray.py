@@ -31,64 +31,64 @@ class Solution:
 
 
 
-        # #Sol 3: O(n) time & O(n) space
-        # n=len(nums)
-        # minlst,maxlst=[0]*n,[0]*n
+        #Sol 3: O(n) time & O(n) space
+        n=len(nums)
+        minlst,maxlst=[0]*n,[0]*n
 
-        # maxVal=nums[0]
-        # for i in range(n):
-        #     maxVal=max(maxVal,nums[i])
-        #     maxlst[i]=maxVal
+        maxVal=nums[0]
+        for i in range(n):
+            maxVal=max(maxVal,nums[i])
+            maxlst[i]=maxVal
         
-        # minVal=nums[-1]
-        # for i in range(n-1,-1,-1):
-        #     minVal=min(minVal,nums[i])
-        #     minlst[i]=minVal
+        minVal=nums[-1]
+        for i in range(n-1,-1,-1):
+            minVal=min(minVal,nums[i])
+            minlst[i]=minVal
         
-        # left,right=0,n-1
+        left,right=0,n-1
 
-        # while left<n and nums[left]==minlst[left]==maxlst[left]:
-        #     left+=1
+        while left<n and nums[left]==minlst[left]==maxlst[left]:
+            left+=1
         
-        # while right>=0 and nums[right]==minlst[right]==maxlst[right]:
-        #     right-=1
+        while right>=0 and nums[right]==minlst[right]==maxlst[right]:
+            right-=1
         
-        # return right-left+1 if left<=right else 0
+        return right-left+1 if left<=right else 0
 
 
 
-        # #Sol 2: O(nlogn)
-        # target=sorted(nums)
-        # if nums==target:
-        #     return 0
+        #Sol 2: O(nlogn)
+        target=sorted(nums)
+        if nums==target:
+            return 0
 
-        # left,right=0,len(nums)-1
+        left,right=0,len(nums)-1
 
-        # while left<=right:
-        #     if nums[left]==target[left]:
-        #         left+=1
-        #     elif nums[right]==target[right]:
-        #         right-=1
-        #     else:
-        #         break
+        while left<=right:
+            if nums[left]==target[left]:
+                left+=1
+            elif nums[right]==target[right]:
+                right-=1
+            else:
+                break
         
-        # return right-left+1
+        return right-left+1
 
 
 
 
-        # #Sol 1: O(n^3logn) TLE Brute Force
+        #Sol 1: O(n^3logn) TLE Brute Force
         
-        # target=sorted(nums)
-        # #base case
-        # if nums==target:
-        #     return 0
+        target=sorted(nums)
+        #base case
+        if nums==target:
+            return 0
         
-        # minVal=len(nums)
-        # for left in range(len(nums)):
-        #     for right in range(left,len(nums)):
+        minVal=len(nums)
+        for left in range(len(nums)):
+            for right in range(left,len(nums)):
 
-        #         if target == (nums[:left] + sorted(nums[left:right+1]) + nums[right+1:]):
-        #             minVal=min(minVal, right-left+1)
+                if target == (nums[:left] + sorted(nums[left:right+1]) + nums[right+1:]):
+                    minVal=min(minVal, right-left+1)
         
-        # return minVal
+        return minVal
