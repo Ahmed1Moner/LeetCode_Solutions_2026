@@ -6,10 +6,13 @@
 # Date: 2026-01-25
 
 
+#try monotonic stack
+
 class Solution:
     def findUnsortedSubarray(self, nums: List[int]) -> int:
         
         #Sol 4: O(n) time O(1) space
+
         left,right=-1,-1
 
         maxVal=float('-inf')
@@ -32,6 +35,7 @@ class Solution:
 
 
         #Sol 3: O(n) time & O(n) space
+
         n=len(nums)
         minlst,maxlst=[0]*n,[0]*n
 
@@ -58,6 +62,7 @@ class Solution:
 
 
         #Sol 2: O(nlogn)
+
         target=sorted(nums)
         if nums==target:
             return 0
