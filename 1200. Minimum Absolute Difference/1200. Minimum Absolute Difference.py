@@ -9,7 +9,7 @@
 class Solution:
     def minimumAbsDifference(self, arr: List[int]) -> List[List[int]]:
         
-        #O(nlogn) time % O(n) space
+        #O(nlogn) time & O(n) space
 
         arr.sort()
         ans=[]
