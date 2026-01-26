@@ -1,13 +1,38 @@
 #
 # Problem: 704. Binary Search
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/binary-search/submissions/1897246608/
+# Link: https://leetcode.com/problems/binary-search/submissions/1897252536/
 # Language: python3
 # Date: 2026-01-26
 
 
 class Solution:
+    def helper(self,nums,target,left,right):
+        
+        if left<=right:
+            mid=(left+right)//2
+
+            #base case
+            if nums[mid]==target:
+                return mid
+            
+            elif nums[mid]<target:
+                return self.helper(nums,target,mid+1,right)
+            
+            else:
+                return self.helper(nums,target,left,mid-1)
+        
+        else:
+            return -1
+            
+
     def search(self, nums: List[int], target: int) -> int:
+        
+        #Sol 2: O(logn) time & O(logn) space
+        
+        return self.helper(nums,target,0,len(nums)-1)
+        
+
         
         #Sol 1: O(logn) time & O(1) space
 
