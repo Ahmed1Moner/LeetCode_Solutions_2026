@@ -16,13 +16,13 @@ class Solution:
 
 
 
-        # #Sol 1: brute force O(n) time & O(1) space
+        #Sol 1: brute force O(n) time & O(1) space
 
-        # num=list(str(num))
-        # maxVal1=max(num)
-        # num.remove(maxVal1)
-        # # del num[num.index(maxVal1)]
-        # maxVal2=max(num)
-        # num.remove(maxVal2)
+        num=list(str(num))
+        maxVal1=max(num)
+        num.remove(maxVal1)
+        # del num[num.index(maxVal1)]
+        maxVal2=max(num)
+        num.remove(maxVal2)
         
-        # return int(maxVal1)+10*int(num[0])+int(maxVal2)+10*int(num[1])
+        return int(maxVal1)+10*int(num[0])+int(maxVal2)+10*int(num[1])
