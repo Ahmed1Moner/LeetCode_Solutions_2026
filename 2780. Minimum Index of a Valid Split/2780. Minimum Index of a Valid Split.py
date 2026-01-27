@@ -1,7 +1,7 @@
 #
 # Problem: 2780. Minimum Index of a Valid Split
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=problem-list-v2&envId=w95808hv
+# Link: https://leetcode.com/problems/minimum-index-of-a-valid-split/
 # Language: python3
 # Date: 2026-01-27
 
@@ -17,8 +17,9 @@ class Solution:
 
         totalSize=len(nums)
         freq=Counter(nums)
-        mostFreq=max(freq.items(),key=lambda x:x[1])[0]
-        # mostFreq = max(freq, key=freq.get)
+        # mostFreq=max(freq.items(),key=lambda x:x[1])[0]
+        mostFreq = max(freq, key=freq.get)
+        
         indices=[i for i,num in enumerate(nums) if num==mostFreq]
         
 
