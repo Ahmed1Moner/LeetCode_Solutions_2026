@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 12
+- **Total Problems Solved:** 13
 - **Easy:** 9 🟢
-- **Medium:** 3 🟡
+- **Medium:** 4 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -22,6 +22,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897246608/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/submissions/1896929441/) | 🟢 Easy | python3 | 2026-01-25 |
+| [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-27 |
 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/submissions/1897739537/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-26 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2026-01-26 |
 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | python3 | 2026-01-25 |
