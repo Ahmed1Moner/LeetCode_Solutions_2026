@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 15
-- **Easy:** 9 🟢
+- **Total Problems Solved:** 16
+- **Easy:** 10 🟢
 - **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
@@ -19,6 +19,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 Easy | python3 | 2026-01-26 |
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-26 |
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | 🟢 Easy | python3 | 2026-01-25 |
+| [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1898833097/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-27 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897246608/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/submissions/1896929441/) | 🟢 Easy | python3 | 2026-01-25 |
