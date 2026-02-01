@@ -6,6 +6,9 @@
 # Date: 2026-02-01
 
 
+#solve 852 & 162 after
+
+
 class Solution:
     def validMountainArray(self, arr: List[int]) -> bool:
         
