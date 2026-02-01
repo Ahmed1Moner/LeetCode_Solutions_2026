@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 17
-- **Easy:** 11 🟢
+- **Total Problems Solved:** 18
+- **Easy:** 12 🟢
 - **Medium:** 6 🟡
 - **Hard:** 0 🔴
 
@@ -23,6 +23,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897246608/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-01-31 |
+| [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-02-01 |
 | [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/submissions/1896929441/) | 🟢 Easy | python3 | 2026-01-25 |
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-27 |
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-27 |
