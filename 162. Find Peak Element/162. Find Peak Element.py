@@ -8,7 +8,6 @@
 
 #solv 941 &e 852 first
 
-
 class Solution:
     def findPeakElement(self, nums: List[int]) -> int:
         
