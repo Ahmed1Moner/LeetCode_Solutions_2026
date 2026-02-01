@@ -6,6 +6,8 @@
 # Date: 2026-02-01
 
 
+#solve 941 first & 162 after
+
 class Solution:
     def peakIndexInMountainArray(self, arr: List[int]) -> int:
         
