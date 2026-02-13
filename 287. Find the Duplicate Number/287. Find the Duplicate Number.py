@@ -8,11 +8,33 @@
 
 #try bit manipulation
 
-#wow: check those solutions: https://leetcode.com/problems/find-the-duplicate-number/solutions/4918970/one-line-solution-by-mikposp-o88y
+#check those solutions: https://leetcode.com/problems/find-the-duplicate-number/solutions/4918970/one-line-solution-by-mikposp-o88y
+
 
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
         
+        #sol 7: O(n) time & O(n) space
+
+        lst=[False]*len(nums)
+        for i in range(1,len(nums)):
+            if lst[nums[i]]:
+                return nums[i]
+            else:
+                lst[nums[i]]=True
+
+
+        #sol 7: O(nlogn) time & O(1) space
+        nums.sort()
+        for i in range(1,len(nums)):
+            if i in nums:
+                nums.remove(i)
+
+        return nums[0]
+
+
+        #sol 6: O(nlogn) time & O(1) space
+
         left,right=1,len(nums)-1 #[1,n] range
         while left<right: #find the first true value
             
