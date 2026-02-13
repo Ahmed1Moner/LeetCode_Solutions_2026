@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 32
+- **Total Problems Solved:** 33
 - **Easy:** 19 🟢
-- **Medium:** 13 🟡
+- **Medium:** 14 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -40,6 +40,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | 🟡 Medium | python3 | 2026-01-27 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 🟡 Medium | python3 | 2026-02-13 |
 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | 🟡 Medium | python3 | 2026-02-13 |
+| [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | python3 | 2026-02-13 |
 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/submissions/1897739537/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-26 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2026-01-26 |
 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | python3 | 2026-01-25 |
