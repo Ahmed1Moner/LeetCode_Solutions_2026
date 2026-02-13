@@ -1,7 +1,7 @@
 #
 # Problem: 287. Find the Duplicate Number
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/find-the-duplicate-number/description/
+# Link: https://leetcode.com/problems/find-the-duplicate-number/
 # Language: python3
 # Date: 2026-02-13
 
@@ -13,6 +13,21 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
         
+        left,right=1,len(nums)-1 #[1,n] range
+        while left<right: #find the first true value
+            
+            mid=left+(right-left)//2
+            ctr=sum(num<=mid for num in nums) #pigeons theory
+
+            if ctr<=mid:
+                left=mid+1
+            
+            else:
+                right=mid
+
+        return left
+
+
         #sol 5: O(n) time & O(1) space
         
         for i in range(len(nums)):
