@@ -10,7 +10,7 @@ class Solution:
 
     def minDays(self, bloomDay: List[int], m: int, k: int) -> int:
 
-        #sol 3: O(n log maxDay) time & O(1) space
+        #sol 3: O(nlogn) time & O(1) space
 
         def possible(day):
 
