@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 35
+- **Total Problems Solved:** 36
 - **Easy:** 19 🟢
-- **Medium:** 16 🟡
+- **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1917641568/) | 🟡 Medium | python3 | 2026-02-13 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1918327925/) | 🟡 Medium | python3 | 2026-02-13 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/) | 🟡 Medium | python3 | 2026-02-14 |
+| [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/) | 🟡 Medium | python3 | 2026-02-14 |
 | [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/) | 🟡 Medium | python3 | 2026-02-01 |
 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/1904575591/?envType=problem-list-v2&envId=waksgnnd) | 🟡 Medium | python3 | 2026-02-01 |
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-27 |
