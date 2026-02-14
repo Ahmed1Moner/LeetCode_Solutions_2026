@@ -1,9 +1,9 @@
 #
 # Problem: 1482. Minimum Number of Days to Make m Bouquets
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1918327925/
+# Link: https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
 # Language: python3
-# Date: 2026-02-13
+# Date: 2026-02-14
 
 
 class Solution:
