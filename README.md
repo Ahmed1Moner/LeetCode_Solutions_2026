@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 37
-- **Easy:** 20 🟢
+- **Total Problems Solved:** 38
+- **Easy:** 21 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3684. Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-02-01 |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | 🟢 Easy | python3 | 2026-02-13 |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/submissions/1917611547/) | 🟢 Easy | python3 | 2026-02-13 |
+| [67. Add Binary](https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-02-15) | 🟢 Easy | python3 | 2026-02-15 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897246608/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-01-31 |
