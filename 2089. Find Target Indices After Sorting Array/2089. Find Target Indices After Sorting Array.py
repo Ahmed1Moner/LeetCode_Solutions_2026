@@ -9,6 +9,39 @@
 class Solution:
     def targetIndices(self, nums: List[int], target: int) -> List[int]:
 
+        #sol 5: O(nlogn) time & O(n) space
+
+        nums.sort()
+        left,right=0,len(nums)
+        
+        #lower bound
+        while left<right:
+            mid=left+(right-left)//2
+
+            if nums[mid]<target: #points on first equal item only
+                left=mid+1
+            else:
+                right=mid
+
+        first=left
+
+        left,right=0,len(nums)
+
+        #upper bound
+        while left<right:
+            mid=left+(right-left)//2
+
+            if nums[mid]<=target: #points on last equal item
+                left=mid+1
+            else:
+                right=mid
+
+        last=left
+
+        return list(range(first,last))
+
+
+
         #sol 4: O(n) time & O(n) space
 
         less,equal=0,0
