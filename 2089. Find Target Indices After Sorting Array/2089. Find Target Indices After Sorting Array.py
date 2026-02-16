@@ -8,6 +8,34 @@
 
 class Solution:
     def targetIndices(self, nums: List[int], target: int) -> List[int]:
+
+        #sol 4: O(n) time & O(n) space
+
+        less,equal=0,0
+        for num in nums:
+            if num<target:
+                less+=1
+            elif num==target:
+                equal+=1
+
+        return list(range(less,less+equal))
+
+
+
+        #sol 3: O(nlogn) time & O(n) space
+
+        nums.sort()        
+        if target not in nums:
+            return []
+        ans=[]
+
+        i=nums.index(target)
+        while i<len(nums) and nums[i]==target:
+            ans.append(i)
+            i+=1
+
+        return ans
+
         
         #sol 2: O(nlogn) time [nlogn sort + logn search + n iteration] & O(n) space
         
