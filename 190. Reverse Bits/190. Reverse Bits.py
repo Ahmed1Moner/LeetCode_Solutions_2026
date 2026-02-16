@@ -1,7 +1,7 @@
 #
 # Problem: 190. Reverse Bits
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/reverse-bits/?envType=daily-question&envId=2026-02-16
+# Link: https://leetcode.com/problems/reverse-bits/description/?envType=daily-question&envId=2026-02-16
 # Language: python3
 # Date: 2026-02-16
 
