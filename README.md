@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
-- **Easy:** 23 🟢
+- **Total Problems Solved:** 41
+- **Easy:** 24 🟢
 - **Medium:** 17 🟡
 - **Hard:** 0 🔴
 
@@ -24,6 +24,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | 🟢 Easy | python3 | 2026-01-25 |
 | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1903693511/?envType=daily-question&envId=2026-02-01) | 🟢 Easy | python3 | 2026-02-01 |
 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1898833097/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-27 |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | python3 | 2026-02-16 |
 | [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/?envType=daily-question&envId=2026-02-03) | 🟢 Easy | python3 | 2026-02-03 |
 | [3684. Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-02-01 |
 | [3684. Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-02-01 |
