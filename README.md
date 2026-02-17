@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Easy:** 29 🟢
-- **Medium:** 18 🟡
+- **Medium:** 19 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -58,6 +58,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2026-01-26 |
 | [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | 🟡 Medium | python3 | 2026-02-17 |
 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | python3 | 2026-01-25 |
+| [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | python3 | 2026-02-17 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/1904680978/) | 🟡 Medium | python3 | 2026-02-01 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 🟡 Medium | python3 | 2026-02-01 |
 
