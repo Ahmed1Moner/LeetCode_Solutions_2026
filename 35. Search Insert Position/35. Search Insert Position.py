@@ -3,11 +3,17 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/search-insert-position/
 # Language: python3
-# Date: 2026-02-16
+# Date: 2026-02-17
 
 
 class Solution:
     def searchInsert(self, nums: List[int], target: int) -> int:
+
+        #sol 3: O(logn) time & O(1) space
+
+        return bisect.bisect_left(nums,target)
+
+
 
         #sol 2: O(logn) time & O(1) space
 
