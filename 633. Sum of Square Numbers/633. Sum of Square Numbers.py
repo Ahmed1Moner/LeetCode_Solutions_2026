@@ -1,7 +1,7 @@
 #
 # Problem: 633. Sum of Square Numbers
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/sum-of-square-numbers/
+# Link: https://leetcode.com/problems/sum-of-square-numbers/submissions/1922634422/
 # Language: python3
 # Date: 2026-02-17
 
