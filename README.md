@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 44
-- **Easy:** 26 🟢
+- **Total Problems Solved:** 45
+- **Easy:** 27 🟢
 - **Medium:** 18 🟡
 - **Hard:** 0 🔴
 
@@ -32,6 +32,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | 🟢 Easy | python3 | 2026-02-13 |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/submissions/1917611547/) | 🟢 Easy | python3 | 2026-02-13 |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-02-15) | 🟢 Easy | python3 | 2026-02-15 |
+| [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | 🟢 Easy | python3 | 2026-02-17 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897246608/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1922095842/) | 🟢 Easy | python3 | 2026-02-17 |
