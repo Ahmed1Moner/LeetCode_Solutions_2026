@@ -1,16 +1,17 @@
 #
 # Problem: 34. Find First and Last Position of Element in Sorted Array
 # Difficulty: Medium
-# Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+# Link: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 # Language: python3
-# Date: 2026-01-26
+# Date: 2026-02-17
 
+
+#check sol 6
 
 class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
-        
 
-        #Sol 5: O(logn) time & O(logn) space
+        #Sol 6:
 
         def helper(left,right,flag):
             if left<=right:
@@ -42,6 +43,13 @@ class Solution:
         
         return [left,right]
 
+
+        #sol 5: O(logn) time & O(1) space
+        first,last=bisect.bisect_left(nums,target),bisect.bisect_right(nums,target)
+        if first==last:
+            return [-1,-1]
+
+        return [first,last-1]
 
         
         #Sol 4: O(logn) time & O(1) space
@@ -128,12 +136,10 @@ class Solution:
 
 
 
-
         #Sol 2: brute force -> O(n) time & O(1) space
         return [next((i for i,num in enumerate(nums) if num==target),-1),
                 next((i for i in range(len(nums)-1,-1,-1) if nums[i]==target),-1)]
                 #or for i,num in reversed(list(enumerate(nums)))
-
 
 
 
