@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 46
-- **Easy:** 28 🟢
+- **Total Problems Solved:** 47
+- **Easy:** 29 🟢
 - **Medium:** 18 🟡
 - **Hard:** 0 🔴
 
@@ -27,6 +27,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1898833097/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-27 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | python3 | 2026-02-16 |
 | [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/?envType=daily-question&envId=2026-02-03) | 🟢 Easy | python3 | 2026-02-03 |
+| [367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) | 🟢 Easy | python3 | 2026-02-17 |
 | [3684. Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-02-01 |
 | [3684. Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-02-01 |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | 🟢 Easy | python3 | 2026-02-13 |
