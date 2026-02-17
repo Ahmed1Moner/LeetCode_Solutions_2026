@@ -1,7 +1,7 @@
 #
 # Problem: 69. Sqrt(x)
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/sqrtx/description/
+# Link: https://leetcode.com/problems/sqrtx/
 # Language: python3
 # Date: 2026-02-17
 
@@ -13,7 +13,7 @@ class Solution:
 
         if x<2: return x
 
-        left,right=1,x//2
+        left,right=2,x//2
         while left<=right:
             mid=left+(right-left)//2
 
@@ -25,4 +25,4 @@ class Solution:
             else:
                 right=mid-1
 
-        return right
+        return right #when loop ends: right<left & right is the last true
