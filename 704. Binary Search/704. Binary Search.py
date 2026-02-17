@@ -1,9 +1,9 @@
 #
 # Problem: 704. Binary Search
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/binary-search/submissions/1897252536/
+# Link: https://leetcode.com/problems/binary-search/submissions/1922095842/
 # Language: python3
-# Date: 2026-01-26
+# Date: 2026-02-17
 
 
 class Solution:
@@ -27,6 +27,15 @@ class Solution:
             
 
     def search(self, nums: List[int], target: int) -> int:
+
+        #sol 3: O(logn) time & O(1) sapce
+        
+        if target in nums:
+            return bisect.bisect_left(nums,target)
+        
+        return -1
+
+
         
         #Sol 2: O(logn) time & O(logn) space
         
