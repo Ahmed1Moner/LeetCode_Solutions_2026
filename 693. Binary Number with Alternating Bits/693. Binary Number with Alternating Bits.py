@@ -1,7 +1,7 @@
 #
 # Problem: 693. Binary Number with Alternating Bits
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/binary-number-with-alternating-bits/description/?envType=daily-question&envId=2026-02-18
+# Link: https://leetcode.com/problems/binary-number-with-alternating-bits/?envType=daily-question&envId=2026-02-18
 # Language: python3
 # Date: 2026-02-18
 
@@ -14,6 +14,9 @@ class Solution:
         #sol 5: O(n) time & O(1) space
         
         num=bin(n)[2:]
+        # num=format(n,'b')
+        # num=bin(n).lstrip('0b')
+        
         return all(a!=b for a,b in pairwise(num))
 
 
