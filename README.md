@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 49
-- **Easy:** 30 🟢
+- **Total Problems Solved:** 50
+- **Easy:** 31 🟢
 - **Medium:** 19 🟡
 - **Hard:** 0 🔴
 
@@ -18,6 +18,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [169. Majority Element](https://leetcode.com/problems/majority-element/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-25 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/?envType=daily-question&envId=2026-02-16) | 🟢 Easy | python3 | 2026-02-16 |
 | [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/?envType=daily-question&envId=2026-02-16) | 🟢 Easy | python3 | 2026-02-16 |
+| [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | 🟢 Easy | python3 | 2026-02-18 |
 | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | 🟢 Easy | python3 | 2026-02-14 |
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 Easy | python3 | 2026-01-26 |
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-26 |
