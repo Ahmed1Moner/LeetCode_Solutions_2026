@@ -6,7 +6,7 @@
 # Date: 2026-02-18
 
 
-#try divide and conquer
+#try divide and conquer and xor
 
 class Solution:
     def hammingWeight(self, n: int) -> int:
