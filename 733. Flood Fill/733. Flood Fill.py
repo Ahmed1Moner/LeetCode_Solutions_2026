@@ -1,10 +1,12 @@
 #
 # Problem: 733. Flood Fill
 # Difficulty: Easy
-# Link: https://leetcode.com/problems/flood-fill/description/
+# Link: https://leetcode.com/problems/flood-fill/
 # Language: python3
 # Date: 2026-02-21
 
+
+#try stack and queue
 
 class Solution:
     def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
