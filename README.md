@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 53
-- **Easy:** 33 🟢
+- **Total Problems Solved:** 54
+- **Easy:** 34 🟢
 - **Medium:** 20 🟡
 - **Hard:** 0 🔴
 
@@ -45,6 +45,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-01-31 |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-02-01 |
 | [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/submissions/1896929441/) | 🟢 Easy | python3 | 2026-01-25 |
+| [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=daily-question&envId=2026-02-21) | 🟢 Easy | python3 | 2026-02-21 |
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | 🟢 Easy | python3 | 2026-02-01 |
 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1917641568/) | 🟡 Medium | python3 | 2026-02-13 |
 | [1482. Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/1918327925/) | 🟡 Medium | python3 | 2026-02-13 |
