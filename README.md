@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 56
-- **Easy:** 36 🟢
+- **Total Problems Solved:** 57
+- **Easy:** 37 🟢
 - **Medium:** 20 🟡
 - **Hard:** 0 🔴
 
@@ -43,6 +43,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1922095842/) | 🟢 Easy | python3 | 2026-02-17 |
 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/description/) | 🟢 Easy | python3 | 2026-02-21 |
+| [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | 🟢 Easy | python3 | 2026-02-21 |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-01-31 |
 | [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31) | 🟢 Easy | python3 | 2026-02-01 |
 | [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/submissions/1896929441/) | 🟢 Easy | python3 | 2026-01-25 |
