@@ -3,7 +3,7 @@
 # Difficulty: Easy
 # Link: https://leetcode.com/problems/flood-fill/
 # Language: python3
-# Date: 2026-02-21
+# Date: 2026-02-22
 
 
 #try stack and queue
@@ -25,10 +25,15 @@ class Solution:
             visited[r][c]=True
             image[r][c]=newColor
 
-            dfs(image,r-1,c,oldColor,newColor)
-            dfs(image,r+1,c,oldColor,newColor)
-            dfs(image,r,c-1,oldColor,newColor)
-            dfs(image,r,c+1,oldColor,newColor)
+            # dfs(image,r-1,c,oldColor,newColor)
+            # dfs(image,r+1,c,oldColor,newColor)
+            # dfs(image,r,c-1,oldColor,newColor)
+            # dfs(image,r,c+1,oldColor,newColor)
+
+            dr=[-1,1,0,0]
+            dc=[0,0,-1,1]
+            for d in range(4):
+                dfs(image,r+dr[d],c+dc[d],oldColor,newColor)
 
         
         visited=[[False for _ in range(len(image[0]))] for _ in range(len(image))]
