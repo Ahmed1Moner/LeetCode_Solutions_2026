@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 62
-- **Easy:** 39 🟢
+- **Total Problems Solved:** 63
+- **Easy:** 40 🟢
 - **Medium:** 23 🟡
 - **Hard:** 0 🔴
 
@@ -26,6 +26,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-26 |
 | [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | 🟢 Easy | python3 | 2026-02-17 |
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | 🟢 Easy | python3 | 2026-01-25 |
+| [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1929016638/) | 🟢 Easy | python3 | 2026-02-23 |
 | [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/submissions/1903693511/?envType=daily-question&envId=2026-02-01) | 🟢 Easy | python3 | 2026-02-01 |
 | [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/submissions/1898833097/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-27 |
 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | python3 | 2026-02-16 |
