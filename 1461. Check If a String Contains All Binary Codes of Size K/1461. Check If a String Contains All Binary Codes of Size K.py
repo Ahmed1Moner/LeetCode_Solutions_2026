@@ -9,13 +9,13 @@
 class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
         
-        #sol 2: O() time & O(n) space
+        #sol 2: O(n*k) time & O(k*2^k) space
 
         seen=set()
         size,codes=len(s),2**k
 
         for i in range(size-k+1):
-            seen.add(s[i:i+k])
+            seen.add(s[i:i+k]) #O(k) time & O(k*2^k) space
 
             if len(seen)==codes:
                 return True
