@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 61
-- **Easy:** 38 🟢
+- **Total Problems Solved:** 62
+- **Easy:** 39 🟢
 - **Medium:** 23 🟡
 - **Hard:** 0 🔴
 
@@ -35,6 +35,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [3684. Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-02-01 |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/description/) | 🟢 Easy | python3 | 2026-02-13 |
 | [441. Arranging Coins](https://leetcode.com/problems/arranging-coins/submissions/1917611547/) | 🟢 Easy | python3 | 2026-02-13 |
+| [66. Plus One](https://leetcode.com/problems/plus-one/description/) | 🟢 Easy | python3 | 2026-02-23 |
 | [67. Add Binary](https://leetcode.com/problems/add-binary/?envType=daily-question&envId=2026-02-15) | 🟢 Easy | python3 | 2026-02-15 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | 🟢 Easy | python3 | 2026-02-17 |
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | python3 | 2026-02-17 |
