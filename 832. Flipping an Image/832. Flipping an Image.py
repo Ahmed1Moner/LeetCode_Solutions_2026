@@ -17,8 +17,10 @@ class Solution:
             i,j=0,cols-1
 
             while i<=j:
-                image[r][i],image[r][j]=int(not image[r][j]),int(not image[r][i])
-
+                image[r][i],image[r][j]=1^image[r][j],1^image[r][i]
+               
+                # image[r][i],image[r][j]=int(not image[r][j]),int(not image[r][i])
+            
                 i+=1
                 j-=1
 
