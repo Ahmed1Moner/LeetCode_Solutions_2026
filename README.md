@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 63
-- **Easy:** 40 🟢
+- **Total Problems Solved:** 64
+- **Easy:** 41 🟢
 - **Medium:** 23 🟡
 - **Hard:** 0 🔴
 
@@ -14,6 +14,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | Problem | Difficulty | Language | Date |
 |---------|-----------|----------|------|
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | python3 | 2026-02-23 |
+| [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/?envType=daily-question&envId=2026-02-24) | 🟢 Easy | python3 | 2026-02-24 |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/?envType=daily-question&envId=2026-01-26) | 🟢 Easy | python3 | 2026-01-26 |
 | [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | 🟢 Easy | python3 | 2026-01-25 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-25 |
