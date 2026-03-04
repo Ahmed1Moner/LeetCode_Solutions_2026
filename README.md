@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 71
-- **Easy:** 45 🟢
+- **Total Problems Solved:** 72
+- **Easy:** 46 🟢
 - **Medium:** 26 🟡
 - **Hard:** 0 🔴
 
@@ -17,6 +17,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/?envType=daily-question&envId=2026-02-24) | 🟢 Easy | python3 | 2026-02-24 |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/?envType=daily-question&envId=2026-01-26) | 🟢 Easy | python3 | 2026-01-26 |
 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2026-02-25) | 🟢 Easy | python3 | 2026-02-25 |
+| [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2026-03-04) | 🟢 Easy | python3 | 2026-03-04 |
 | [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | 🟢 Easy | python3 | 2026-01-25 |
 | [169. Majority Element](https://leetcode.com/problems/majority-element/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-25 |
 | [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/submissions/1926462568/) | 🟢 Easy | python3 | 2026-02-21 |
