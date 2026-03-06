@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 75
+- **Total Problems Solved:** 76
 - **Easy:** 48 🟢
-- **Medium:** 27 🟡
+- **Medium:** 28 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -62,6 +62,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | 🟢 Easy | python3 | 2026-02-01 |
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | 🟢 Easy | python3 | 2026-02-21 |
 | [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) | 🟡 Medium | python3 | 2026-02-24 |
+| [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/) | 🟡 Medium | python3 | 2026-03-06 |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 🟡 Medium | python3 | 2026-02-26 |
 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1917641568/) | 🟡 Medium | python3 | 2026-02-13 |
 | [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/description/?envType=daily-question&envId=2026-02-26) | 🟡 Medium | python3 | 2026-02-26 |
