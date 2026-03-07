@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 78
+- **Total Problems Solved:** 79
 - **Easy:** 48 🟢
-- **Medium:** 30 🟡
+- **Medium:** 31 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -86,6 +86,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2966. Divide Array Into Arrays With Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/submissions/1897739537/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-26 |
 | [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | 🟡 Medium | python3 | 2026-01-26 |
 | [436. Find Right Interval](https://leetcode.com/problems/find-right-interval/description/) | 🟡 Medium | python3 | 2026-02-17 |
+| [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | python3 | 2026-03-07 |
 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | python3 | 2026-01-25 |
 | [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | python3 | 2026-02-17 |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance/) | 🟡 Medium | python3 | 2026-02-21 |
