@@ -9,6 +9,61 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
 
+        #sol 5: O(n) time & O(n) space
+
+        if not nums:
+            return 0
+
+        def dfs(node):
+            seen.add(node)
+            length=1
+            for neighbor in adjs[node]:
+                if neighbor not in seen:
+                    length+=dfs(neighbor)
+
+            return length
+
+        
+        nums,seen=set(nums),set()
+        adjs=defaultdict(list)
+        longest=0
+
+        for num in nums:
+            if (num+1) in nums:
+                adjs[num].append(num+1)
+                adjs[num+1].append(num)
+
+        
+        for num in nums:
+            if num not in seen:
+                longest=max(longest,dfs(num))
+
+        return longest
+
+
+
+
+
+        #sol 4: O(n) time & O(n) space
+        
+        nums=set(nums)
+        longest=0
+
+        for num in nums:
+            if (num-1) not in nums:
+                length=1
+
+                while (num+1) in nums:
+                    length+=1
+                    num+=1
+
+                longest=max(longest,length)
+
+        return longest
+
+
+
+
         #sol 3: O(n) time & O(n) space
 
         nums,seen=set(nums),set()
