@@ -29,8 +29,6 @@ class Solution:
         return ctr
 
 
-
-
         #sol 1: O(n^2) time & O(n^2) space
 
         adjs=defaultdict(list)
