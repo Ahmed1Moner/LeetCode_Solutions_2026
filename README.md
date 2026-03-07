@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 79
+- **Total Problems Solved:** 80
 - **Easy:** 48 🟢
-- **Medium:** 31 🟡
+- **Medium:** 32 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -89,6 +89,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | 🟡 Medium | python3 | 2026-03-07 |
 | [581. Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | 🟡 Medium | python3 | 2026-01-25 |
 | [633. Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡 Medium | python3 | 2026-02-17 |
+| [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | 🟡 Medium | python3 | 2026-03-07 |
 | [690. Employee Importance](https://leetcode.com/problems/employee-importance/) | 🟡 Medium | python3 | 2026-02-21 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/submissions/1904680978/) | 🟡 Medium | python3 | 2026-02-01 |
 | [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 🟡 Medium | python3 | 2026-02-01 |
