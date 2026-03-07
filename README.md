@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 77
+- **Total Problems Solved:** 78
 - **Easy:** 48 🟢
-- **Medium:** 29 🟡
+- **Medium:** 30 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -63,6 +63,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/description/) | 🟢 Easy | python3 | 2026-02-21 |
 | [1034. Coloring A Border](https://leetcode.com/problems/coloring-a-border/description/) | 🟡 Medium | python3 | 2026-02-24 |
 | [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/description/) | 🟡 Medium | python3 | 2026-03-06 |
+| [1202. Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/) | 🟡 Medium | python3 | 2026-03-07 |
 | [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/) | 🟡 Medium | python3 | 2026-02-26 |
 | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | python3 | 2026-03-06 |
 | [1283. Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/submissions/1917641568/) | 🟡 Medium | python3 | 2026-02-13 |
