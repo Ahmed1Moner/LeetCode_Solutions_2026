@@ -4,9 +4,9 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 81
+- **Total Problems Solved:** 82
 - **Easy:** 49 🟢
-- **Medium:** 32 🟡
+- **Medium:** 33 🟡
 - **Hard:** 0 🔴
 
 ## 📝 Problems
@@ -78,6 +78,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1743. Restore the Array From Adjacent Pairs](https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/) | 🟡 Medium | python3 | 2026-03-05 |
 | [1877. Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/1904575591/?envType=problem-list-v2&envId=waksgnnd) | 🟡 Medium | python3 | 2026-02-01 |
 | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/) | 🟡 Medium | python3 | 2026-02-22 |
+| [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/submissions/1942282774/?envType=daily-question&envId=2026-03-08) | 🟡 Medium | python3 | 2026-03-08 |
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-27 |
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/description/?envType=problem-list-v2&envId=w95808hv) | 🟡 Medium | python3 | 2026-01-27 |
 | [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/) | 🟡 Medium | python3 | 2026-01-27 |
