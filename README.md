@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 80
-- **Easy:** 48 🟢
+- **Total Problems Solved:** 81
+- **Easy:** 49 🟢
 - **Medium:** 32 🟡
 - **Hard:** 0 🔴
 
@@ -16,6 +16,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | python3 | 2026-02-23 |
 | [1022. Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/description/?envType=daily-question&envId=2026-02-24) | 🟢 Easy | python3 | 2026-02-24 |
 | [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/?envType=daily-question&envId=2026-01-26) | 🟢 Easy | python3 | 2026-01-26 |
+| [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-03-08 |
 | [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/description/?envType=daily-question&envId=2026-02-25) | 🟢 Easy | python3 | 2026-02-25 |
 | [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2026-03-04) | 🟢 Easy | python3 | 2026-03-04 |
 | [1619. Mean of Array After Removing Some Elements](https://leetcode.com/problems/mean-of-array-after-removing-some-elements/) | 🟢 Easy | python3 | 2026-01-25 |
