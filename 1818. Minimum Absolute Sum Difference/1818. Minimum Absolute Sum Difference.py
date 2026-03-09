@@ -6,15 +6,20 @@
 # Date: 2026-03-09
 
 
+#try bisect_elft
+
 class Solution:
     def minAbsoluteSumDiff(self, nums1: List[int], nums2: List[int]) -> int:
-
+       
         #sol 3: O(nlogn) time & O(n) space
 
         def bs(target):
-            left,right=0,len(nums1)-1
+            left,right=0,size-1
             while left<right:
                 mid=left+(right-left)//2
+
+                if newNums[mid]==target:
+                    return abs(target-newNums[mid])
 
                 if newNums[mid]<target:
                     left=mid+1
@@ -27,16 +32,18 @@ class Solution:
                 return min(abs(target-newNums[left]), abs(target-newNums[left-1]))
 
 
+
         newNums=sorted(nums1)
-        maxVal=float('inf')
-        summ=sum(abs(nums1[k]-nums2[k]) for k in range(len(nums1)))
+        maxVal,size=float('inf'),len(nums1)
+        summ=sum(abs(nums1[k]-nums2[k]) for k in range(size))
 
-        for i in range(len(nums1)):
-            
+        for i in range(size):
+            originalVal=abs(nums1[i]-nums2[i])
             closestVal=bs(nums2[i])
-            maxVal=min(maxVal, summ-abs(nums1[i]-nums2[i])+closestVal)
 
-        return min(maxVal, summ)%(10**9+7)
+            maxVal=min(maxVal, summ - originalVal + closestVal)
+
+        return min(maxVal,summ)%(10**9+7)
 
         
                 
