@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 87
-- **Easy:** 51 🟢
+- **Total Problems Solved:** 88
+- **Easy:** 52 🟢
 - **Medium:** 36 🟡
 - **Hard:** 0 🔴
 
@@ -31,6 +31,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/) | 🟢 Easy | python3 | 2026-01-26 |
 | [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=w95808hv) | 🟢 Easy | python3 | 2026-01-26 |
 | [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | 🟢 Easy | python3 | 2026-02-17 |
+| [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-03-09 |
 | [2656. Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-03-09 |
 | [2656. Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/?envType=problem-list-v2&envId=waksgnnd) | 🟢 Easy | python3 | 2026-03-09 |
 | [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/) | 🟢 Easy | python3 | 2026-01-25 |
