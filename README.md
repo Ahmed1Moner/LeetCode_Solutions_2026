@@ -4,8 +4,8 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 88
-- **Easy:** 52 🟢
+- **Total Problems Solved:** 89
+- **Easy:** 53 🟢
 - **Medium:** 36 🟡
 - **Hard:** 0 🔴
 
@@ -51,6 +51,7 @@ My LeetCode solutions, automatically synced from [LeetCode](https://leetcode.com
 | [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/) | 🟢 Easy | python3 | 2026-02-17 |
 | [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/?envType=daily-question&envId=2026-02-18) | 🟢 Easy | python3 | 2026-02-18 |
 | [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/?envType=daily-question&envId=2026-02-18) | 🟢 Easy | python3 | 2026-02-18 |
+| [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/submissions/1992137943/) | 🟢 Easy | python3 | 2026-04-30 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897246608/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1897252536/) | 🟢 Easy | python3 | 2026-01-26 |
 | [704. Binary Search](https://leetcode.com/problems/binary-search/submissions/1922095842/) | 🟢 Easy | python3 | 2026-02-17 |
